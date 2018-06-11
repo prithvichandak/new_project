@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+#login-form {
+	margin:5% auto;
+	max-width:500px;
+}
+/* home page */
+#wrapper{
+	padding-top:50px;
+}
+.result-box {
+	padding: 10px;
+}
+.panel {
+	margin-bottom: 8px;
+}
+.light-text {
+	color: cadetblue;
+}
+.qty {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+}
+.modified-btn {
+	padding: 3px 12px;
+	margin-top: 4px;
+}
+.upper-btn {
+	margin-right: 30px;
+}
+input.qtyplus { width:25px; height:25px;}
+input.qtyminus { width:25px; height:25px;}
